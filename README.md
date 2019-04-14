@@ -1,5 +1,7 @@
 # pandas Foundations
 
+Pandas DataFrames are the most widely used in-memory representation of complex data collections within Python. 
+
 - Data ingestion & inspection: import and inspect a variety of datasets. 
 
 - Exploratory data analysis: statistical and visual EDA. 
