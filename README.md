@@ -1,4 +1,4 @@
-# pandas-Foundations
+# pandas Foundations
 
 - Data ingestion & inspection: import and inspect a variety of datasets
 
